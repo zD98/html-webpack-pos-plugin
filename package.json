@@ -1,0 +1,25 @@
+{
+  "name": "html-webpack-pos-plugin",
+  "version": "1.0.0",
+  "description": "html-webpack-pos-plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zD98/html-webpack-pos-plugin.git"
+  },
+  "keywords": [
+    "htmlwebpackplugin"
+  ],
+  "author": "zd98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zD98/html-webpack-pos-plugin/issues"
+  },
+  "homepage": "https://github.com/zD98/html-webpack-pos-plugin#readme",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}
