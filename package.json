@@ -1,6 +1,6 @@
 {
     "name": "html-webpack-pos-plugin",
-    "version": "0.0.0-development",
+    "version": "0.0.0-semantically-released",
     "description": "html-webpack-pos-plugin",
     "main": "lib/index.js",
     "scripts": {
@@ -13,9 +13,7 @@
         "type": "git",
         "url": "https://github.com/zD98/html-webpack-pos-plugin.git"
     },
-    "keywords": [
-        "htmlwebpackplugin"
-    ],
+    "keywords": ["htmlwebpackplugin"],
     "author": "zd98",
     "license": "MIT",
     "bugs": {
